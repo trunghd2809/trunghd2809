@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to my GitHub repository! This readme provides an overview of my experience and qualifications as a Full Stack Developer. I have over 4 years of professional experience in building robust and scalable web and mobile applications using NodeJs, ReactJs, and React Native. I am passionate about coding, collaborating with teams, and troubleshooting complex issues. In this document, you will find a summary of my qualifications and expertise. ✨💻
+Welcome to my GitHub repository! This readme provides an overview of my experience and qualifications as a Full Stack Developer. I have over 5+ years of professional experience in building robust and scalable web and mobile applications using NodeJs, ReactJs, and React Native. I am passionate about coding, collaborating with teams, and troubleshooting complex issues. In this document, you will find a summary of my qualifications and expertise. ✨💻
 
 ## Summary of Qualifications
 - **Full Stack Development**: I have extensive experience in developing robust and scalable web applications using NodeJs, JavaScript, and related frameworks such as NestJs. My proficiency in both front-end and back-end development allows me to build end-to-end solutions efficiently. 🚀
